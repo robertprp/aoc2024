@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    ".",
+    "lib",
+    "day1"
+]
+resolver = "2"
