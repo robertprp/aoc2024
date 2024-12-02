@@ -1,7 +1,3 @@
 [workspace]
-members = [
-    ".",
-    "lib",
-    "day1"
-]
+members = [ ".", "lib", "day1" , "day2"]
 resolver = "2"
